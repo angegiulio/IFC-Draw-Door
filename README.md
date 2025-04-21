@@ -7,7 +7,7 @@ This script uses IfcOpenShell and Plotly to extract and visualize a solid 3D dia
 
 ---
 
-Features
+**Features**
 
 Load and parse IFC files in Colab
 
@@ -25,7 +25,7 @@ Export high-resolution PNG snapshots
 
 ---
 
-Requirements
+**Requirements**
 
 Google Colab
 
@@ -41,14 +41,13 @@ kaleido (for exporting images)
 
 
 
-Install with:
-
+**Install with:**
 !pip install ifcopenshell plotly kaleido
 
 
 ---
 
-How to Use
+**How to Use**
 
 1. Upload your IFC file (e.g. model.ifc) to the Colab environment.
 
